@@ -31,3 +31,7 @@
 1. **Install library yang dibutuhkan**:
    ```bash
    pip install -r requirements.txt
+
+2. **Menjalankan**:
+   ```bash
+   python3 main.py

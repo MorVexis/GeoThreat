@@ -22,7 +22,7 @@
 
 ## 🧪 Screenshot
 
-![GeoThreat Screenshot](assets/screenshot.png) ![GeoThreat Screenshot](assets/screenshot.png) ![GeoThreat Screenshot](assets/screenshot.png)
+![GeoThreat Screenshot](screenshot1.png) ![GeoThreat Screenshot](screenshot2.png) ![GeoThreat Screenshot](screenshot3.png)
 
 ---
 
